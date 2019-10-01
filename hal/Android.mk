@@ -142,7 +142,6 @@ LOCAL_SHARED_LIBRARIES := \
     libexpat \
     libhwbinder \
     libhidlbase \
-    libhidltransport \
     libprocessgroup \
     libutils
 
